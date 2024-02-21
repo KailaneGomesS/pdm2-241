@@ -1,5 +1,4 @@
-# Avaliação 01
-Avaliação em que se faz necesário evidenciar o repositório da disciplina de Banco de dados. 
+# Atividades
 
 Disciplina: *Programação de dispositivos móveis*
 
