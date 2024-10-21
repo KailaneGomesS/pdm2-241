@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script  src ="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cadastro</h1>
+    <div class = "painel"> 
+    <form onsubmit="return validarFormulario()">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" class ="campo" maxlength="50" required><br><br>
+
+        <label for="dataNascimento">Data de Nascimento:</label>
+        <input type="date" id="dataNascimento" name="dataNascimento"class ="campo" required><br><br>
+
+        <label for="matricula">Matrícula:</label>
+        <input type="text" id="matricula" name="matricula" class ="campo" required><br><br>
+
+        <input type="submit"  id = "botao" value="Enviar">
+    </form>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+input {
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.campo
+{
+   width: 90%; 
+}
+.painel {
+    margin: auto;
+    background-color: rgb(29, 253, 186);
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    padding: 150px;
+    background-color:rgb(127, 125, 247);
+}
+h1{ padding-left: 257px;}
+
+.botao{ width: 105px;}
